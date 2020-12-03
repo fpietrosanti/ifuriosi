@@ -47,7 +47,10 @@ Il suo [Curriculum completo](https://trasparenza.polimi.it/sites/default/files/u
 
 Le collaborazioni con la Casaleggio Associati non risultano menzionate negli altri profili pubblici dell'autore.
 
-## I Contenuti
+## I Contenuti del sito
+
+Il sito rimanda in quasi tutte le pagine alla partecipazione al gruppo Facebook [Smettere Domani]https://raw.githubusercontent.com/fpietrosanti/ifuriosi/facebook-smettere-domani.png).
+
 
 ## Possibili aspetti legali
 
@@ -56,4 +59,4 @@ Come indicato dal [Ministero della Salute](https://www.consumatori.it/comunicati
 L'articolo indica come le comunicazione commerciali che abbiano anche l'effetto indiretto di promuovere le sigrette siano vietate, recitando: 
 "Sono vietate: a) le comunicazioni commerciali nei servizi della società dell’informazione, sulla stampa e altre pubblicazioni stampate, aventi lo scopo o l’effetto diretto o indiretto di promuovere le sigarette elettroniche e i contenitori di liquido di ricarica”)"
 
-Domanda: I Furiosi, rappresentano una comunicazione commerciale indiretta ?
+Laddove vi fosse una valutazione che i contenuti in oggetto rappresentassero una comunicazione commerciale indiretta, sarebbe necessario procedere ad una [segnalazione all'AGCOM](https://www.agcm.it/servizi/segnala-on-line) per richiedere un intervento dell'autorità preposta all'accertamento dei fatti, valutando le responsabilità collegate dei soggetti coinvolti a vario titolo.
