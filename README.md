@@ -14,9 +14,14 @@ L'account Facebook (di cui non si trova agevole copia online) alla data della so
 
 ## Gli indirizzi IP
 
-L'indirizzo IP del sito www.ifuriosi.it risulta essere 151.5.112.10 presso WIND SPA, nel blocco di indirizzi IP come riportato su [Robtex](https://www.robtex.com/cidr/151.5.0.0-16) e su [IP Info](https://ipinfo.io/AS1267/151.5.0.0/16-151.5.42.0/23) contiguo intestato alla Casalaleggio Associati Srl e alla Associazione Rousseau, entrambe con riferimento amministrativo Casaleggio Davide:
+L'indirizzo IP del sito www.ifuriosi.it risulta essere 151.5.112.10 presso WIND SPA.
 
-![I Furiosi Netblock](https://raw.githubusercontent.com/fpietrosanti/ifuriosi/main/netblocks-2.png)
+Nello stesso blocco di indirizzi IP come riportato su [Robtex](https://www.robtex.com/cidr/151.5.0.0-16) e su [IP Info](https://ipinfo.io/AS1267/151.5.0.0/16-151.5.42.0/23) risultano presenti i seguenti siti riconducibili a Casalaleggio Associati Srl, Associazione Rousseau, Movimento 5 Stelle, Marco Travaglio:
+
+casaleggio.it - casaleggioassociati.com - marcotravaglio.com - rousseau.movimento5stelle.it - www.movimento5stelle.it - blogdellestelle.it - rousseau.world - coldirettichin.it - 5stelleeruopa.it - gianrobertocasaleggio.com 
+
+Sono consultabili in archivio le copie dell'elenco di coppie IP - Siti acquisiti da [IP Info](https://raw.githubusercontent.com/fpietrosanti/ifuriosi/main/netblocks-2.png) e [Robtex](https://raw.githubusercontent.com/fpietrosanti/ifuriosi/main/netblocks-1.png)
+
 
 
 ## Il Dominio Internet
