@@ -13,4 +13,11 @@ L'indirizzo IP del sito www.ifuriosi.it risulta essere 151.5.112.10 presso WIND 
 ![I Furiosi Netblock](https://raw.githubusercontent.com/fpietrosanti/ifuriosi/main/netblocks-1.png)
 
 
+## Il Dominio Internet
 
+
+## L'Autore Formale
+
+## I Contenuti
+
+## Possibili aspetti legali
