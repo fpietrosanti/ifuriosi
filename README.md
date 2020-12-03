@@ -11,6 +11,9 @@ L'account [Twitter @WeAreFuriosi](https://raw.githubusercontent.com/fpietrosanti
 
 L'account Facebook (di cui non si trova agevole copia online) alla data della sospensione [aveva 103.882 likes](https://raw.githubusercontent.com/fpietrosanti/ifuriosi/main/facebook-homepage-da-google-cache.png) (da cui si può inferire che avesse un notevole outreach, forse acquisito tramite pubblicità sul social media).
 
+L'account Instagram all'indirizzo https://www.instagram.com/wearefuriosi/ è stato cancellato e non è stato possibile reperirne copie .
+
+L'account youtube all'indirizzo https://www.youtube.com/channel/UCRWuH55NuUFh2MPZ8v2Aqrg è stato cancellato e non è stato possibile reperirne copie .
 
 ## Gli indirizzi IP
 
@@ -21,7 +24,6 @@ Nello stesso blocco di indirizzi IP come riportato su [Robtex](https://www.robte
 casaleggio.it - casaleggioassociati.com - marcotravaglio.com - rousseau.movimento5stelle.it - www.movimento5stelle.it - blogdellestelle.it - rousseau.world - coldirettichin.it - 5stelleeruopa.it - gianrobertocasaleggio.com 
 
 Sono consultabili in archivio le copie dell'elenco di coppie IP - Siti acquisiti da [IP Info](https://raw.githubusercontent.com/fpietrosanti/ifuriosi/main/netblocks-2.png) e [Robtex](https://raw.githubusercontent.com/fpietrosanti/ifuriosi/main/netblocks-1.png)
-
 
 
 ## Il Dominio Internet
