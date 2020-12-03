@@ -28,8 +28,17 @@ Sono consultabili in archivio le copie dell'elenco di coppie IP - Siti acquisiti
 
 Il dominio internet ifuriosi.it risulta [registrato il 17-04-2018 da Matteo Blandford](https://raw.githubusercontent.com/fpietrosanti/ifuriosi/main/dominio_ifuriosi.it.png) presso Aruba.
 
+## L'Autore
 
-## L'Autore Formale
+Il sito internet stando alla cookie policy e al dominio risulterebbe avere come autore Matteo Blandford con dato di contatto wearefuriosi@gmail.com .
+
+La homepage di Matteo Blandford risulta essere http://matteoblandford.com che a sua volta punta ad una Web Agency da questo fondata http://do-tm.com .
+
+Stando al [testo del sito](https://raw.githubusercontent.com/fpietrosanti/ifuriosi/main/do-tm-homepage.png) è stata fondata nel 2017, nonstante il dominio risulti [registrato anonimamente il 01-03-2018](https://raw.githubusercontent.com/fpietrosanti/ifuriosi/main/do-tm-domain.png), circa 1 mese e mezzo prima della registrazione del dominio ifuriosi.it e dal suo [profilo linkedin](https://it.linkedin.com/in/matteo-blandford-78244340) risulti invece [fondata nel 2020](https://raw.githubusercontent.com/fpietrosanti/ifuriosi/main/matteo-blandford-linkedin-profile.png) .
+
+Il suo profilo su [Behance](https://www.behance.net/matteoblandford/resume) e [Vimeo](https://vimeo.com/matteoblandford) lo connotano a Como, con cellulare inglese +44 (0) 7403 215979 .
+
+Il suo Curriculum completo, reperito online
 
 ## I Contenuti
 
