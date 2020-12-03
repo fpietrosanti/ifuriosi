@@ -14,10 +14,9 @@ L'account Facebook (di cui non si trova agevole copia online) alla data della so
 
 ## Gli indirizzi IP
 
-L'indirizzo IP del sito www.ifuriosi.it risulta essere 151.5.112.10 presso WIND SPA, nel [medesimo Netblock](https://www.robtex.com/cidr/151.5.0.0-16
-) contiguo intestato alla Casalaleggio Associati Srl e alla Associazione Rousseau, entrambe con riferimento amministrativo Casaleggio Davide:
+L'indirizzo IP del sito www.ifuriosi.it risulta essere 151.5.112.10 presso WIND SPA, nel blocco di indirizzi IP come riportato su [Robtex](https://www.robtex.com/cidr/151.5.0.0-16) e su [IP Info](https://ipinfo.io/AS1267/151.5.0.0/16-151.5.42.0/23) contiguo intestato alla Casalaleggio Associati Srl e alla Associazione Rousseau, entrambe con riferimento amministrativo Casaleggio Davide:
 
-![I Furiosi Netblock](https://raw.githubusercontent.com/fpietrosanti/ifuriosi/main/netblocks-1.png)
+![I Furiosi Netblock](https://raw.githubusercontent.com/fpietrosanti/ifuriosi/main/netblocks-2.png)
 
 
 ## Il Dominio Internet
