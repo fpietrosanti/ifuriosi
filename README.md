@@ -28,3 +28,10 @@ L'indirizzo IP del sito www.ifuriosi.it risulta essere 151.5.112.10 presso WIND 
 ## I Contenuti
 
 ## Possibili aspetti legali
+
+Come indicato dal [Ministero della Salute](https://www.consumatori.it/comunicati-stampa/salute-ministero-vale-divieto-pubblicita-iquos/) è vietata la pubblicità di sigarette elettroniche come le sigarette a tabacco riscaldato, secondo l'articolo 21 comma 10 lettera a) del [decreto legislativo 12 gennaio 2016](https://www.tobaccocontrollaws.org/files/live/Italy/Italy%20-%20Legislative%20Decree%20No.%206%20of%20Jan.%2012%2C%202016%20-%20national.pdf) .
+
+L'articolo indica come le comunicazione commerciali che abbiano anche l'effetto indiretto di promuovere le sigrette siano vietate, recitando: 
+"Sono vietate: a) le comunicazioni commerciali nei servizi della società dell’informazione, sulla stampa e altre pubblicazioni stampate, aventi lo scopo o l’effetto diretto o indiretto di promuovere le sigarette elettroniche e i contenitori di liquido di ricarica”)"
+
+Domanda: I Furiosi, rappresentano una comunicazione commerciale indiretta ?
