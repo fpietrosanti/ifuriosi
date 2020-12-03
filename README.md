@@ -10,6 +10,7 @@ Assieme alle evidenze documentali pregresse alla cancellazione, acquisite tramit
 L'indirizzo IP del sito www.ifuriosi.it risulta essere 151.5.112.10 presso WIND SPA, nel [medesimo Netblock](https://www.robtex.com/cidr/151.5.0.0-16
 ) contiguo intestato alla Casalaleggio Associati Srl e alla Associazione Rousseau, entrambe con riferimento amministrativo Casaleggio Davide:
 
+![I Furiosi Netblock](https://raw.githubusercontent.com/fpietrosanti/ifuriosi/main/netblocks-1.png)
 
 
 
