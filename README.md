@@ -26,6 +26,8 @@ Sono consultabili in archivio le copie dell'elenco di coppie IP - Siti acquisiti
 
 ## Il Dominio Internet
 
+Il dominio internet ifuriosi.it risulta [registrato il 17-04-2018 da Matteo Blandford](https://raw.githubusercontent.com/fpietrosanti/ifuriosi/main/dominio_ifuriosi.it.png) presso Aruba.
+
 
 ## L'Autore Formale
 
