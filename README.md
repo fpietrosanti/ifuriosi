@@ -38,9 +38,12 @@ Stando al [testo del sito](https://raw.githubusercontent.com/fpietrosanti/ifurio
 
 Il suo profilo su [Behance](https://www.behance.net/matteoblandford/resume) e [Vimeo](https://vimeo.com/matteoblandford) lo connotano a Como, con cellulare inglese +44 (0) 7403 215979 .
 
-Il suo [Curriculum completo](https://trasparenza.polimi.it/sites/default/files/ugov_files/468807_Matteo%20Blandford%20CV_2018_Poli.pdf), menziona le collaborazioni dal 2017 per Casaleggio Associati nei 3 progetti fra cui i furiosi:
-![Progetti](https://raw.githubusercontent.com/fpietrosanti/ifuriosi/main/matteo-blandford-per-casaleggio.png?raw=true)
+Il suo [Curriculum completo](https://trasparenza.polimi.it/sites/default/files/ugov_files/468807_Matteo%20Blandford%20CV_2018_Poli.pdf), menziona le collaborazioni dal 2017 per Casaleggio Associati in [3 progetti](https://raw.githubusercontent.com/fpietrosanti/ifuriosi/main/matteo-blandford-per-casaleggio.png):
+- I Furiosi (con il supporto di un programmatore [Jacek Kubas](https://github.com/jacekkubas)
+- Marittimi (per Moby)
+- Gianroberto Casaleggio
 
+Le collaborazioni con la Casaleggio Associati non risultano menzionate negli altri profili pubblici dell'autore.
 
 ## I Contenuti
 
