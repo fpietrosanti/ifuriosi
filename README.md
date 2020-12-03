@@ -7,9 +7,9 @@ Assieme alle evidenze documentali pregresse alla cancellazione, acquisite tramit
 
 ## I Social Media
 
-L'account [Twitter @WeAreFuriosi](https://raw.githubusercontent.com/fpietrosanti/ifuriosi/main/twitter-furiosi-home.jpg) alla data della sospensione aveva appena 60 followers ma come si può vedere dalle [Conversazioni](https://raw.githubusercontent.com/fpietrosanti/ifuriosi/main/twitter-furiosi-conversazioni.jpg) vedeva l'intervento diretto della Philip Morris Internationa.
+L'account [Twitter @WeAreFuriosi](https://raw.githubusercontent.com/fpietrosanti/ifuriosi/main/twitter-furiosi-home.jpg) alla data della sospensione aveva  60 followers e si può notare dalle [Conversazioni](https://raw.githubusercontent.com/fpietrosanti/ifuriosi/main/twitter-furiosi-conversazioni.jpg) l'intervento  della Philip Morris International a seguito dei suoi post.
 
-L'account Facebook (di cui non si trova agevole copia online) alla data della sospensione [aveva 103.882 likes](https://raw.githubusercontent.com/fpietrosanti/ifuriosi/main/facebook-homepage-da-google-cache.png) (da cui si può inferire che avesse un notevole outreach, forse acquisito tramite pubblicità sul social media).
+L'account Facebook (di cui non si trova agevole copia online) alla data della sospensione [aveva 103.882 likes](https://raw.githubusercontent.com/fpietrosanti/ifuriosi/main/facebook-homepage-da-google-cache.png) (da cui si può inferire che avesse un notevole outreach, forse acquisito tramite pubblicità sui social media).
 
 L'account Instagram all'indirizzo https://www.instagram.com/wearefuriosi/ è stato cancellato e non è stato possibile reperirne copie .
 
