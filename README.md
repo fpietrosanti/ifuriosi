@@ -3,7 +3,7 @@ Archivio documentale piattaforma ifuriosi.
 
 Obiettivo di questo archivio è quello di preservare tutte le evidenze digitali acquisibili dal 3 Dicembre 2020 a seguito della "*furiosa cancellazione del sito [www.ifuriosi.it](http://www.ifuriosi.it)* e dei rispettivi canali di comunicazione social Facebook, Instagram, Youtube e Twitter.
 
-Assieme alle evidenze documentali pregresse alla cancellazione, acquisite tramite sistemi di copie storiche web (che apparententemente il gestore del "ifuriosi.it" si sta altrettanto apprestando a fare richieste di cancellazione), sono raccolte altresì le informazioni relative a domini e spazi di indirizzamento IP.
+Assieme alle evidenze documentali pregresse alla cancellazione, acquisite tramite sistemi di copie storiche web (che apparententemente il gestore del "ifuriosi.it" si sta altrettanto apprestando a fare richieste di cancellazione), sono raccolte altresì le informazioni relative a domini e spazi di indirizzamento IP e autori.
 
 ## Gli indirizzi IP
 
@@ -17,15 +17,14 @@ Sono consultabili in archivio le copie dell'elenco di coppie IP - Siti acquisiti
 
 ## I Social Media
 
-L'account [Twitter @WeAreFuriosi](https://raw.githubusercontent.com/fpietrosanti/ifuriosi/main/twitter-furiosi-home.jpg) alla data della sospensione aveva  60 followers e si può notare dalle [Conversazioni](https://raw.githubusercontent.com/fpietrosanti/ifuriosi/main/twitter-furiosi-conversazioni.jpg) l'intervento  della Philip Morris International a seguito dei suoi post.
+Dell'account youtube da 38.000 iscritti, è stato possibile reperire una preview di [tutti i titoli dei video YT](https://github.com/fpietrosanti/ifuriosi/blob/main/youtube-homepage.pdf) da cui è possibile evincere quali siano stati i contenuti che risultavano raggiungibili all'indirizzo https://www.youtube.com/channel/UCRWuH55NuUFh2MPZ8v2Aqrg
 
-L'account Facebook (di cui non si trova agevole copia online) alla data della sospensione [aveva 103.882 likes](https://raw.githubusercontent.com/fpietrosanti/ifuriosi/main/facebook-homepage-da-google-cache.png) (da cui si può inferire che avesse un notevole outreach, forse acquisito tramite pubblicità sui social media).
+L'account Facebook (di cui non si trova agevole copia online) alla data della sospensione [aveva 103.882 likes](https://raw.githubusercontent.com/fpietrosanti/ifuriosi/main/facebook-homepage-da-google-cache.png), da cui si può inferire che avesse un notevole outreach, forse acquisito tramite pubblicità sui social media).
+
+L'account [Twitter @WeAreFuriosi](https://raw.githubusercontent.com/fpietrosanti/ifuriosi/main/twitter-furiosi-home.jpg) alla data della sospensione aveva solo 60 followers ma si può notare dalle [Conversazioni](https://raw.githubusercontent.com/fpietrosanti/ifuriosi/main/twitter-furiosi-conversazioni.jpg) il peculiare intervento della Philip Morris International a seguito dei suoi post.
 
 L'account Instagram all'indirizzo https://www.instagram.com/wearefuriosi/ è stato cancellato e non è stato possibile reperirne copie .
 
-L'account youtube da 38.000 iscritti era raggiungibile all'indirizzo https://www.youtube.com/channel/UCRWuH55NuUFh2MPZ8v2Aqrg è stato cancellato o reso privato.
-
-E' stato possibile reperire una preview di [tutti i titoli dei video](https://github.com/fpietrosanti/ifuriosi/blob/main/youtube-homepage.pdf) da cui è possibile evincere quali siano stati i contenuti.
 
 ## Il Dominio Internet
 
@@ -33,20 +32,19 @@ Il dominio internet ifuriosi.it risulta [registrato il 17-04-2018 da Matteo Blan
 
 ## L'Autore
 
-Il sito internet stando alla cookie policy e al dominio risulterebbe avere come autore Matteo Blandford con dato di contatto wearefuriosi@gmail.com .
+Il sito internet stando alla cookie policy e al dominio risulterebbe avere come autore Matteo Blandford con dato di contatto non nominativo wearefuriosi@gmail.com.
+
+Il suo [Curriculum completo](https://trasparenza.polimi.it/sites/default/files/ugov_files/468807_Matteo%20Blandford%20CV_2018_Poli.pdf), indica la [realizzazione di I Furiosi dal 2017 per Casaleggio Associati](https://raw.githubusercontent.com/fpietrosanti/ifuriosi/main/matteo-blandford-per-casaleggio.png), oltre ad avere realizzato per questi l'iziativa Marittimi per Moby/Tirrenia/Onorato Group.
 
 La homepage di Matteo Blandford risulta essere http://matteoblandford.com che a sua volta punta ad una Web Agency da questo fondata http://do-tm.com .
 
-Stando al [testo del sito](https://raw.githubusercontent.com/fpietrosanti/ifuriosi/main/do-tm-homepage.png) è stata fondata nel 2017, nonstante il dominio risulti [registrato anonimamente il 01-03-2018](https://raw.githubusercontent.com/fpietrosanti/ifuriosi/main/do-tm-domain.png), circa 1 mese e mezzo prima della registrazione del dominio ifuriosi.it e dal suo [profilo linkedin](https://it.linkedin.com/in/matteo-blandford-78244340) risulti invece [fondata nel 2020](https://raw.githubusercontent.com/fpietrosanti/ifuriosi/main/matteo-blandford-linkedin-profile.png) .
+Stando al [testo del sito](https://raw.githubusercontent.com/fpietrosanti/ifuriosi/main/do-tm-homepage.png) la do-tm è stata fondata nel 2017, nonstante il dominio risulti [registrato anonimamente il 01-03-2018](https://raw.githubusercontent.com/fpietrosanti/ifuriosi/main/do-tm-domain.png), circa 1 mese e mezzo prima della registrazione del dominio ifuriosi.it .
 
-Il suo profilo su [Behance](https://www.behance.net/matteoblandford/resume) e [Vimeo](https://vimeo.com/matteoblandford) lo connotano a Como, con cellulare inglese +44 (0) 7403 215979 .
+Dal [profilo linkedin](https://it.linkedin.com/in/matteo-blandford-78244340) pubblico di Matteo Blandford la do-tm risulterebbe invece [fondata nel 2020](https://raw.githubusercontent.com/fpietrosanti/ifuriosi/main/matteo-blandford-linkedin-profile.png) .
 
-Il suo [Curriculum completo](https://trasparenza.polimi.it/sites/default/files/ugov_files/468807_Matteo%20Blandford%20CV_2018_Poli.pdf), menziona le collaborazioni dal 2017 per Casaleggio Associati in [3 progetti](https://raw.githubusercontent.com/fpietrosanti/ifuriosi/main/matteo-blandford-per-casaleggio.png):
-- I Furiosi (con il supporto di un programmatore [Jacek Kubas](https://github.com/jacekkubas)
-- Marittimi (per Moby)
-- Gianroberto Casaleggio
+Il suo profilo pubblico su [Behance](https://www.behance.net/matteoblandford/resume) e [Vimeo](https://vimeo.com/matteoblandford) lo connota a Como, con cellulare inglese +44 (0) 7403 215979 .
 
-Le collaborazioni con la Casaleggio Associati non risultano menzionate negli altri profili pubblici dell'autore.
+Si evidenzia come le collaborazioni con la Casaleggio Associati presenti nel curriculum, non risultano invece menzionate negli altri profili pubblici dell'autore.
 
 
 ## I Contenuti del sito
@@ -58,9 +56,9 @@ Il sito presenta l'iniziativa come realizzata da un gruppo di entusiasti, come u
 ### Homepage
 
 L'homepage del sito raccoglie vari articoli sul tema del fumare sigarette, in particolare:
-- enfatizzando aspetti quali l'emancipazione delle donne
+- enfatizzando le sigarette con tabacco riscaldato, criticando il consumo di sigarette tradizionali ed elettroniche
 - criticando la validità dei report OMS sui danni del fumo
-- criticando il consumo di sigarette tradizionali ed elettroniche, ma enfatizzando quelle con tabacco riscaldato
+- enfatizzando aspetti del fumo quali l'emancipazione delle donne
 
 Le videate sono disponibili nei seguenti screenshot:
 - [Homepage prima videata](https://github.com/fpietrosanti/ifuriosi/blob/main/sito-homepage-1.png)
@@ -103,9 +101,11 @@ Sono state estratte ed archiviate le 15 pagine web più significative del sito i
 [Vietate le sigarette elettroniche a San Francisco](https://github.com/fpietrosanti/ifuriosi/blob/main/pagina-Vietate%20le%20sigarette%20elettroniche%20a%20San%20Francisco%20%E2%80%94%20I%20Furiosi%20-%20cc.bingj.com.pdf)
 
 
-### Video di esperimento fra diversi tipi sigarette 
+### Video di esperimento fra diversi tipi sigarette a piè di pagina
 
 Viene mostrato nel sito [l'anteprima di un video](https://raw.githubusercontent.com/fpietrosanti/ifuriosi/blob/main/sito-video-esperimento-sigarette.png) che sembrerebbe volere dimostrare la differenza fra sigarette normali, elettroniche e riscaldate ma che  non è più visibile, è stato reso privato all'indirizzo https://www.youtube.com/watch?v=ExrOOgcO90o .
+
+Tale video è nella intestazione a piè di pagina del sito, in tutti i contenuti navigazionali.
 
 
 ### Gruppi Facebook
@@ -120,7 +120,6 @@ Il sito usa Google Analytics impiegando l'account UA-122678760-1 di cui non è p
 
 Come indicato dal [Ministero della Salute](https://www.consumatori.it/comunicati-stampa/salute-ministero-vale-divieto-pubblicita-iquos/) è vietata la pubblicità di sigarette elettroniche come le sigarette a tabacco riscaldato, secondo l'articolo 21 comma 10 lettera a) del [decreto legislativo 12 gennaio 2016](https://www.tobaccocontrollaws.org/files/live/Italy/Italy%20-%20Legislative%20Decree%20No.%206%20of%20Jan.%2012%2C%202016%20-%20national.pdf) .
 
-L'articolo indica come le comunicazione commerciali che abbiano anche l'effetto indiretto di promuovere le sigrette siano vietate, recitando: 
-"Sono vietate: a) le comunicazioni commerciali nei servizi della società dell’informazione, sulla stampa e altre pubblicazioni stampate, aventi lo scopo o l’effetto diretto o indiretto di promuovere le sigarette elettroniche e i contenitori di liquido di ricarica”)"
+L'articolo 21 della norma succitata indica come le comunicazione commerciali che abbiano anche l'effetto indiretto di promuovere le sigarette siano vietate, nche quando l'effetto indiretto della comunicazione "nei servizi della società dell'informazione" persegue questo scopo.
 
 Laddove vi fosse una valutazione che i contenuti in oggetto rappresentassero una comunicazione commerciale indiretta, sarebbe necessario procedere ad una [segnalazione all'AGCOM](https://www.agcm.it/servizi/segnala-on-line) per richiedere un intervento dell'autorità preposta all'accertamento dei fatti, valutando le responsabilità collegate dei soggetti coinvolti a vario titolo.
