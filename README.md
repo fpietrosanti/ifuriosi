@@ -24,6 +24,7 @@ L'account Facebook (di cui non si trova agevole copia online) alla data della so
 L'account Instagram all'indirizzo https://www.instagram.com/wearefuriosi/ è stato cancellato e non è stato possibile reperirne copie .
 
 L'account youtube da 38.000 iscritti era raggiungibile all'indirizzo https://www.youtube.com/channel/UCRWuH55NuUFh2MPZ8v2Aqrg è stato cancellato o reso privato.
+
 E' stato possibile reperire una preview di [tutti i titoli dei video](https://github.com/fpietrosanti/ifuriosi/blob/main/youtube-homepage.pdf) da cui è possibile evincere quali siano stati i contenuti.
 
 ## Il Dominio Internet
