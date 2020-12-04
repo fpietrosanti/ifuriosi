@@ -74,7 +74,7 @@ Le videate sono disponibili nei seguenti screenshot:
 
 ### Video di esperimento
 
-Viene mostrato nel sito [l'anteprima di un video](https://raw.githubusercontent.com/fpietrosanti/ifuriosi/sito-video-esperimento-sigarette.png) che sembrerebbe volere dimostrare la differenza fra sigarette normali, elettroniche e riscaldate ma che  non è più visibile, è stato reso privato all'indirizzo https://www.youtube.com/watch?v=ExrOOgcO90o .
+Viene mostrato nel sito [l'anteprima di un video](https://raw.githubusercontent.com/fpietrosanti/ifuriosi/blob/main/sito-video-esperimento-sigarette.png) che sembrerebbe volere dimostrare la differenza fra sigarette normali, elettroniche e riscaldate ma che  non è più visibile, è stato reso privato all'indirizzo https://www.youtube.com/watch?v=ExrOOgcO90o .
 
 
 ### Gruppi Facebook
