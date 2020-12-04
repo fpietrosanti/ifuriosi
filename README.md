@@ -47,10 +47,6 @@ Il suo [Curriculum completo](https://trasparenza.polimi.it/sites/default/files/u
 
 Le collaborazioni con la Casaleggio Associati non risultano menzionate negli altri profili pubblici dell'autore.
 
-## I Contenuti del sito
-
-Il sito rimanda in quasi tutte le pagine alla partecipazione al gruppo Facebook [Smettere Domani]https://raw.githubusercontent.com/fpietrosanti/ifuriosi/facebook-smettere-domani.png).
-
 
 ## Possibili aspetti legali
 
@@ -60,3 +56,27 @@ L'articolo indica come le comunicazione commerciali che abbiano anche l'effetto 
 "Sono vietate: a) le comunicazioni commerciali nei servizi della società dell’informazione, sulla stampa e altre pubblicazioni stampate, aventi lo scopo o l’effetto diretto o indiretto di promuovere le sigarette elettroniche e i contenitori di liquido di ricarica”)"
 
 Laddove vi fosse una valutazione che i contenuti in oggetto rappresentassero una comunicazione commerciale indiretta, sarebbe necessario procedere ad una [segnalazione all'AGCOM](https://www.agcm.it/servizi/segnala-on-line) per richiedere un intervento dell'autorità preposta all'accertamento dei fatti, valutando le responsabilità collegate dei soggetti coinvolti a vario titolo.
+
+## I Contenuti del sito
+
+### Homepage
+
+L'homepage del sito raccoglie vari articoli sul tema del fumare sigarette, in particolare:
+- enfatizzando aspetti quali l'emancipazione delle donne
+- criticando la validità dei report OMS sui danni del fumo
+- criticando il consumo di sigarette tradizionali ed elettroniche, ma enfatizzando quelle con tabacco riscaldato
+
+Le videate sono disponibili nei seguenti screenshot:
+- [Homepage prima videata](https://raw.githubusercontent.com/fpietrosanti/ifuriosi/sito-homepage-1.png)
+- [Homepage seconda videata](https://raw.githubusercontent.com/fpietrosanti/ifuriosi/sito-homepage-2.png)
+- [Homepage terza videata](https://raw.githubusercontent.com/fpietrosanti/ifuriosi/sito-homepage-3.png)
+
+
+### Video di esperimento
+
+Viene mostrato nel sito [l'anteprima di un video](https://raw.githubusercontent.com/fpietrosanti/ifuriosi/sito-video-esperimento-sigarette.png) che sembrerebbe volere dimostrare la differenza fra sigarette normali, elettroniche e riscaldate ma che  non è più visibile, è stato reso privato all'indirizzo https://www.youtube.com/watch?v=ExrOOgcO90o .
+
+
+### Gruppi Facebook
+
+Il sito rimanda in quasi tutte le pagine alla partecipazione al gruppo Facebook [Smettere Domani](https://raw.githubusercontent.com/fpietrosanti/ifuriosi/facebook-smettere-domani.png).
