@@ -44,7 +44,7 @@ Dal [profilo linkedin](https://it.linkedin.com/in/matteo-blandford-78244340) pub
 
 Il suo profilo pubblico su [Behance](https://www.behance.net/matteoblandford/resume) e [Vimeo](https://vimeo.com/matteoblandford) lo connota a Como, con cellulare inglese +44 (0) 7403 215979 .
 
-Si evidenzia come le collaborazioni con la Casaleggio Associati presenti nel curriculum, non risultano invece menzionate negli altri profili pubblici dell'autore.
+Si evidenzia come le collaborazioni con la Casaleggio Associati presenti nel curriculum in pdf, non risultano invece menzionate negli altri profili pubblici dell'autore.
 
 
 ## I Contenuti del sito
