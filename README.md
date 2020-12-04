@@ -74,7 +74,7 @@ Sono state estratte ed archiviate le 15 pagine web più significative del sito i
 
 [La nicotina non crea più dipendenza della caffeina](https://github.com/fpietrosanti/ifuriosi/blob/main/pagina-La%20nicotina%20non%20crea%20piu%CC%80%20dipendenza%20della%20caffeina%20%E2%80%94%20I%20Furiosi%20-%20cc.bingj.com.pdf)
 
-[IQOS ed e-cig_ impatto inferiore sul cuore rispetto alla](https://github.com/fpietrosanti/ifuriosi/blob/main/pagina-Carnevale_%20_Iqos%20ed%20e-cig_%20impatto%20inferiore%20sul%20cuore%20rispetto%20alla%20_%20-%20cc.bingj.com.pdf)
+[IQOS ed e-cig_ impatto inferiore sul cuore rispetto alla sigaretta](https://github.com/fpietrosanti/ifuriosi/blob/main/pagina-Carnevale_%20_Iqos%20ed%20e-cig_%20impatto%20inferiore%20sul%20cuore%20rispetto%20alla%20_%20-%20cc.bingj.com.pdf)
 
 [Smettere di fumare fa veramente ingrassare](https://github.com/fpietrosanti/ifuriosi/blob/main/pagina-Smettere%20di%20fumare%20fa%20veramente%20ingrassare_%20%E2%80%94%20I%20Furiosi%20-%20cc.bingj.com.pdf)
 
@@ -120,6 +120,6 @@ Il sito usa Google Analytics impiegando l'account UA-122678760-1 di cui non è p
 
 Come indicato dal [Ministero della Salute](https://www.consumatori.it/comunicati-stampa/salute-ministero-vale-divieto-pubblicita-iquos/) è vietata la pubblicità di sigarette elettroniche come le sigarette a tabacco riscaldato, secondo l'articolo 21 comma 10 lettera a) del [decreto legislativo 12 gennaio 2016](https://www.tobaccocontrollaws.org/files/live/Italy/Italy%20-%20Legislative%20Decree%20No.%206%20of%20Jan.%2012%2C%202016%20-%20national.pdf) .
 
-L'articolo 21 della norma succitata indica come le comunicazione commerciali che abbiano anche l'effetto indiretto di promuovere le sigarette siano vietate, nche quando l'effetto indiretto della comunicazione "nei servizi della società dell'informazione" persegue questo scopo.
+L'articolo 21 della norma succitata indica come le comunicazione commerciali che abbiano anche l'effetto indiretto di promuovere le sigarette siano vietate, anche nella comunicazione "nei servizi della società dell'informazione" (siti web e social media).
 
 Laddove vi fosse una valutazione che i contenuti in oggetto rappresentassero una comunicazione commerciale indiretta, sarebbe necessario procedere ad una [segnalazione all'AGCOM](https://www.agcm.it/servizi/segnala-on-line) per richiedere un intervento dell'autorità preposta all'accertamento dei fatti, valutando le responsabilità collegate dei soggetti coinvolti a vario titolo.
