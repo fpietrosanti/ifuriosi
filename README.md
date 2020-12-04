@@ -103,7 +103,7 @@ Sono state estratte ed archiviate le 15 pagine web più significative del sito i
 
 ### Video di esperimento fra diversi tipi sigarette a piè di pagina
 
-Viene mostrato nel sito [l'anteprima di un video](https://raw.githubusercontent.com/fpietrosanti/ifuriosi/blob/main/sito-video-esperimento-sigarette.png) che sembrerebbe volere dimostrare la differenza fra sigarette normali, elettroniche e riscaldate ma che  non è più visibile, è stato reso privato all'indirizzo https://www.youtube.com/watch?v=ExrOOgcO90o .
+Viene mostrato nel sito [l'anteprima di un video](https://github.com/fpietrosanti/ifuriosi/blob/main/sito-video-esperimento-sigarette.png) che sembrerebbe volere dimostrare la differenza fra sigarette normali, elettroniche e riscaldate ma che  non è più visibile, è stato reso privato all'indirizzo https://www.youtube.com/watch?v=ExrOOgcO90o .
 
 Tale video è nella intestazione a piè di pagina del sito, in tutti i contenuti navigazionali.
 
