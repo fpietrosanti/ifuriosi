@@ -34,7 +34,7 @@ Il dominio internet ifuriosi.it risulta [registrato il 17-04-2018 da Matteo Blan
 
 Il sito internet stando alla cookie policy e al dominio risulterebbe avere come autore Matteo Blandford con dato di contatto non nominativo wearefuriosi@gmail.com.
 
-Il suo [Curriculum completo](https://trasparenza.polimi.it/sites/default/files/ugov_files/468807_Matteo%20Blandford%20CV_2018_Poli.pdf), indica la [realizzazione di I Furiosi dal 2017 per Casaleggio Associati](https://raw.githubusercontent.com/fpietrosanti/ifuriosi/main/matteo-blandford-per-casaleggio.png), oltre ad avere realizzato per questi l'iziativa Marittimi per Moby/Tirrenia/Onorato Group.
+Il suo [Curriculum completo](https://trasparenza.polimi.it/sites/default/files/ugov_files/468807_Matteo%20Blandford%20CV_2018_Poli.pdf), indica la [realizzazione di I Furiosi dal 2017 per Casaleggio Associati](https://raw.githubusercontent.com/fpietrosanti/ifuriosi/main/matteo-blandford-per-casaleggio.png), oltre ad avere realizzato per questi l'iniziativa Marittimi per Moby/Tirrenia/Onorato Group.
 
 La homepage di Matteo Blandford risulta essere http://matteoblandford.com che a sua volta punta ad una Web Agency da questo fondata http://do-tm.com .
 
