@@ -71,6 +71,12 @@ Le videate sono disponibili nei seguenti screenshot:
 - [Homepage seconda videata](https://raw.githubusercontent.com/fpietrosanti/ifuriosi/blob/main/sito-homepage-2.png)
 - [Homepage terza videata](https://raw.githubusercontent.com/fpietrosanti/ifuriosi/blob/main/sito-homepage-3.png)
 
+### Pagine web
+
+Sono state estratte ed archiviate le 15 pagine web più significative del sito ifuriosi.it, estrapolate in formato PDF:
+
+[Vietate le sigarette elettroniche a San Francisco](https://github.com/fpietrosanti/ifuriosi/blob/main/pagina-Vietate%20le%20sigarette%20elettroniche%20a%20San%20Francisco%20%E2%80%94%20I%20Furiosi%20-%20cc.bingj.com.pdf)
+
 
 ### Video di esperimento
 
