@@ -59,6 +59,10 @@ Laddove vi fosse una valutazione che i contenuti in oggetto rappresentassero una
 
 ## I Contenuti del sito
 
+### Chi Siamo
+
+Il sito presenta l'iniziativa come realizzata da un gruppo di entusiasti, come una comunità, tuttavia senza rivelare alcun dato identificativo o di contatto nominativo, come evidente nella pagina [Chi Siamo](https://github.com/fpietrosanti/ifuriosi/blob/main/pagina-Chi%20siamo%20%E2%80%94%20I%20Furiosi%20-%20cc.bingj.com.pdf)
+
 ### Homepage
 
 L'homepage del sito raccoglie vari articoli sul tema del fumare sigarette, in particolare:
@@ -75,10 +79,39 @@ Le videate sono disponibili nei seguenti screenshot:
 
 Sono state estratte ed archiviate le 15 pagine web più significative del sito ifuriosi.it, estrapolate in formato PDF:
 
+#### Salute
+[L'OMS fa un passo indietro sulle sigarette elettroniche](https://github.com/fpietrosanti/ifuriosi/blob/main/pagina-L'OMS%20fa%20un%20passo%20indietro%20sulle%20sigarette%20elettroniche%20%E2%80%94%20I%20Furiosi_%20-%20cc.bingj.com.pdf)
+
+[La nicotina non crea più dipendenza della caffeina](https://github.com/fpietrosanti/ifuriosi/blob/main/pagina-La%20nicotina%20non%20crea%20piu%CC%80%20dipendenza%20della%20caffeina%20%E2%80%94%20I%20Furiosi%20-%20cc.bingj.com.pdf)
+
+[IQOS ed e-cig_ impatto inferiore sul cuore rispetto alla](https://github.com/fpietrosanti/ifuriosi/blob/main/pagina-Carnevale_%20_Iqos%20ed%20e-cig_%20impatto%20inferiore%20sul%20cuore%20rispetto%20alla%20_%20-%20cc.bingj.com.pdf)
+
+[Smettere di fumare fa veramente ingrassare](https://github.com/fpietrosanti/ifuriosi/blob/main/pagina-Smettere%20di%20fumare%20fa%20veramente%20ingrassare_%20%E2%80%94%20I%20Furiosi%20-%20cc.bingj.com.pdf)
+
+#### Tabacco Riscaldato
+[Riscaldatore di tabacco_ cos’è, come funziona, rischi](https://github.com/fpietrosanti/ifuriosi/blob/main/pagina-Riscaldatore%20di%20tabacco_%20cos%E2%80%99e%CC%80%2C%20come%20funziona%2C%20rischi%20%E2%80%94%20I%20Furiosi_%20-%20cc.bingj.com.pdf)
+
+[IQOS vs GLO, confronto definitivo_ abbiamo provato tutte le versioni!](https://github.com/fpietrosanti/ifuriosi/blob/main/pagina-IQOS%20vs%20GLO%2C%20confronto%20definitivo_%20abbiamo%20provato%20tutte%20le%20versioni!_%20-%20yandexwebcache.net.pdf)
+
+[Tag #riscaldatoreditabacco](https://github.com/fpietrosanti/ifuriosi/blob/main/pagina-%23riscaldatoreditabacco%20Archivi%20%E2%80%94%20I%20Furiosi%20-%20cc.bingj.com.pdf)
+
+#### Varie
+[Dai mozziconi nascono i fiori](https://github.com/fpietrosanti/ifuriosi/blob/main/pagina-Dai%20mozziconi%20nascono%20i%20fior_%20la%20scommessa%20di%20un%20gruppo%20di%20ricercator_%20-%20cc.bingj.com.pdf)
+
+[Roberto Boffi_ ascoltare i fumatori è l’unico modo.](https://github.com/fpietrosanti/ifuriosi/blob/main/pagina-%20Roberto%20Boffi_%20ascoltare%20i%20fumatori%20e%CC%80%20l%E2%80%99unico%20modo.%20L%E2%80%99ho%20giurato%20ad%20I_%20-%20cc.bingj.com.pdf)
+
+[10 milioni di persone hanno abbandonato le sigarette tradizionali](https://github.com/fpietrosanti/ifuriosi/blob/main/pagina-10%20milioni%20di%20persone%20hanno%20abbandonato%20le%20sigarette%20tradizionali%20%E2%80%94%20I_%20-%20cc.bingj.com.pdf)
+
+[I cinque peggiori costumi (fumanti) di Carnevale](https://github.com/fpietrosanti/ifuriosi/blob/main/pagina-I%20cinque%20peggiori%20costumi%20(fumanti)%20di%20Carnevale%20%E2%80%94%20I%20Furiosi_%20-%20yandexwebcache.net.pdf)
+
+[Niente sigarette alla fermata dell'autobus](https://github.com/fpietrosanti/ifuriosi/blob/main/pagina-Niente%20sigarette%20alla%20fermata%20dell'autobus__%20il%20fumo%20inquina%20l'aria._%20-%20cc.bingj.com.pdf)
+
+[Sigaretta elettronica_ cos'è, come funziona, rischi](https://github.com/fpietrosanti/ifuriosi/blob/main/pagina-Sigaretta%20elettronica_%20cos'e%CC%80%2C%20come%20funziona%2C%20rischi%20%E2%80%94%20I%20Furiosi_%20-%20cc.bingj.com.pdf)
+
 [Vietate le sigarette elettroniche a San Francisco](https://github.com/fpietrosanti/ifuriosi/blob/main/pagina-Vietate%20le%20sigarette%20elettroniche%20a%20San%20Francisco%20%E2%80%94%20I%20Furiosi%20-%20cc.bingj.com.pdf)
 
 
-### Video di esperimento
+### Video di esperimento fra diversi tipi sigarette 
 
 Viene mostrato nel sito [l'anteprima di un video](https://raw.githubusercontent.com/fpietrosanti/ifuriosi/blob/main/sito-video-esperimento-sigarette.png) che sembrerebbe volere dimostrare la differenza fra sigarette normali, elettroniche e riscaldate ma che  non è più visibile, è stato reso privato all'indirizzo https://www.youtube.com/watch?v=ExrOOgcO90o .
 
