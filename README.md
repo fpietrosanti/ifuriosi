@@ -1,4 +1,4 @@
-# ifuriosi
+# ifuriosi.it
 Archivio documentale piattaforma ifuriosi.
 
 Obiettivo di questo archivio è quello di preservare tutte le evidenze digitali acquisibili dal 3 Dicembre 2020 a seguito della "*furiosa cancellazione del sito [www.ifuriosi.it](http://www.ifuriosi.it)* e dei rispettivi canali di comunicazione social Facebook, Instagram, Youtube e Twitter.
@@ -48,15 +48,6 @@ Il suo [Curriculum completo](https://trasparenza.polimi.it/sites/default/files/u
 Le collaborazioni con la Casaleggio Associati non risultano menzionate negli altri profili pubblici dell'autore.
 
 
-## Possibili aspetti legali
-
-Come indicato dal [Ministero della Salute](https://www.consumatori.it/comunicati-stampa/salute-ministero-vale-divieto-pubblicita-iquos/) è vietata la pubblicità di sigarette elettroniche come le sigarette a tabacco riscaldato, secondo l'articolo 21 comma 10 lettera a) del [decreto legislativo 12 gennaio 2016](https://www.tobaccocontrollaws.org/files/live/Italy/Italy%20-%20Legislative%20Decree%20No.%206%20of%20Jan.%2012%2C%202016%20-%20national.pdf) .
-
-L'articolo indica come le comunicazione commerciali che abbiano anche l'effetto indiretto di promuovere le sigrette siano vietate, recitando: 
-"Sono vietate: a) le comunicazioni commerciali nei servizi della società dell’informazione, sulla stampa e altre pubblicazioni stampate, aventi lo scopo o l’effetto diretto o indiretto di promuovere le sigarette elettroniche e i contenitori di liquido di ricarica”)"
-
-Laddove vi fosse una valutazione che i contenuti in oggetto rappresentassero una comunicazione commerciale indiretta, sarebbe necessario procedere ad una [segnalazione all'AGCOM](https://www.agcm.it/servizi/segnala-on-line) per richiedere un intervento dell'autorità preposta all'accertamento dei fatti, valutando le responsabilità collegate dei soggetti coinvolti a vario titolo.
-
 ## I Contenuti del sito
 
 ### Chi Siamo
@@ -71,9 +62,9 @@ L'homepage del sito raccoglie vari articoli sul tema del fumare sigarette, in pa
 - criticando il consumo di sigarette tradizionali ed elettroniche, ma enfatizzando quelle con tabacco riscaldato
 
 Le videate sono disponibili nei seguenti screenshot:
-- [Homepage prima videata](https://raw.githubusercontent.com/fpietrosanti/ifuriosi/blob/main/sito-homepage-1.png)
-- [Homepage seconda videata](https://raw.githubusercontent.com/fpietrosanti/ifuriosi/blob/main/sito-homepage-2.png)
-- [Homepage terza videata](https://raw.githubusercontent.com/fpietrosanti/ifuriosi/blob/main/sito-homepage-3.png)
+- [Homepage prima videata](https://github.com/fpietrosanti/ifuriosi/blob/main/sito-homepage-1.png)
+- [Homepage seconda videata](https://github.com/fpietrosanti/ifuriosi/blob/main/sito-homepage-2.png)
+- [Homepage terza videata](https://github.com/fpietrosanti/ifuriosi/blob/main/sito-homepage-3.png)
 
 ### Pagine web
 
@@ -123,3 +114,12 @@ Il sito rimanda in quasi tutte le pagine alla partecipazione al gruppo Facebook 
 ### Google Analytics
 
 Il sito usa Google Analytics impiegando l'account UA-122678760-1 di cui non è possibile conoscerne l'intestatario, se non richiedendolo a Google.
+
+## Possibili aspetti legali
+
+Come indicato dal [Ministero della Salute](https://www.consumatori.it/comunicati-stampa/salute-ministero-vale-divieto-pubblicita-iquos/) è vietata la pubblicità di sigarette elettroniche come le sigarette a tabacco riscaldato, secondo l'articolo 21 comma 10 lettera a) del [decreto legislativo 12 gennaio 2016](https://www.tobaccocontrollaws.org/files/live/Italy/Italy%20-%20Legislative%20Decree%20No.%206%20of%20Jan.%2012%2C%202016%20-%20national.pdf) .
+
+L'articolo indica come le comunicazione commerciali che abbiano anche l'effetto indiretto di promuovere le sigrette siano vietate, recitando: 
+"Sono vietate: a) le comunicazioni commerciali nei servizi della società dell’informazione, sulla stampa e altre pubblicazioni stampate, aventi lo scopo o l’effetto diretto o indiretto di promuovere le sigarette elettroniche e i contenitori di liquido di ricarica”)"
+
+Laddove vi fosse una valutazione che i contenuti in oggetto rappresentassero una comunicazione commerciale indiretta, sarebbe necessario procedere ad una [segnalazione all'AGCOM](https://www.agcm.it/servizi/segnala-on-line) per richiedere un intervento dell'autorità preposta all'accertamento dei fatti, valutando le responsabilità collegate dei soggetti coinvolti a vario titolo.
