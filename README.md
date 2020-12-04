@@ -79,7 +79,7 @@ Viene mostrato nel sito [l'anteprima di un video](https://raw.githubusercontent.
 
 ### Gruppi Facebook
 
-Il sito rimanda in quasi tutte le pagine alla partecipazione al gruppo Facebook [Smettere Domani](https://raw.githubusercontent.com/fpietrosanti/ifuriosi/facebook-smettere-domani.png).
+Il sito rimanda in quasi tutte le pagine alla partecipazione al gruppo Facebook [Smettere Domani](https://raw.githubusercontent.com/fpietrosanti/ifuriosi/blob/main/facebook-smettere-domani.png), che con 499 membri è attualmente [divenuto privato](https://www.facebook.com/groups/smetteredomani/)
 
 ### Google Analytics
 
