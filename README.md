@@ -5,16 +5,6 @@ Obiettivo di questo archivio è quello di preservare tutte le evidenze digitali 
 
 Assieme alle evidenze documentali pregresse alla cancellazione, acquisite tramite sistemi di copie storiche web (che apparententemente il gestore del "ifuriosi.it" si sta altrettanto apprestando a fare richieste di cancellazione), sono raccolte altresì le informazioni relative a domini e spazi di indirizzamento IP.
 
-## I Social Media
-
-L'account [Twitter @WeAreFuriosi](https://raw.githubusercontent.com/fpietrosanti/ifuriosi/main/twitter-furiosi-home.jpg) alla data della sospensione aveva  60 followers e si può notare dalle [Conversazioni](https://raw.githubusercontent.com/fpietrosanti/ifuriosi/main/twitter-furiosi-conversazioni.jpg) l'intervento  della Philip Morris International a seguito dei suoi post.
-
-L'account Facebook (di cui non si trova agevole copia online) alla data della sospensione [aveva 103.882 likes](https://raw.githubusercontent.com/fpietrosanti/ifuriosi/main/facebook-homepage-da-google-cache.png) (da cui si può inferire che avesse un notevole outreach, forse acquisito tramite pubblicità sui social media).
-
-L'account Instagram all'indirizzo https://www.instagram.com/wearefuriosi/ è stato cancellato e non è stato possibile reperirne copie .
-
-L'account youtube all'indirizzo https://www.youtube.com/channel/UCRWuH55NuUFh2MPZ8v2Aqrg è stato cancellato e non è stato possibile reperirne copie .
-
 ## Gli indirizzi IP
 
 L'indirizzo IP del sito www.ifuriosi.it risulta essere 151.5.112.10 presso WIND SPA.
@@ -25,6 +15,16 @@ casaleggio.it - casaleggioassociati.com - marcotravaglio.com - rousseau.moviment
 
 Sono consultabili in archivio le copie dell'elenco di coppie IP - Siti acquisiti da [IP Info](https://raw.githubusercontent.com/fpietrosanti/ifuriosi/main/netblocks-2.png) e [Robtex](https://raw.githubusercontent.com/fpietrosanti/ifuriosi/main/netblocks-1.png)
 
+## I Social Media
+
+L'account [Twitter @WeAreFuriosi](https://raw.githubusercontent.com/fpietrosanti/ifuriosi/main/twitter-furiosi-home.jpg) alla data della sospensione aveva  60 followers e si può notare dalle [Conversazioni](https://raw.githubusercontent.com/fpietrosanti/ifuriosi/main/twitter-furiosi-conversazioni.jpg) l'intervento  della Philip Morris International a seguito dei suoi post.
+
+L'account Facebook (di cui non si trova agevole copia online) alla data della sospensione [aveva 103.882 likes](https://raw.githubusercontent.com/fpietrosanti/ifuriosi/main/facebook-homepage-da-google-cache.png) (da cui si può inferire che avesse un notevole outreach, forse acquisito tramite pubblicità sui social media).
+
+L'account Instagram all'indirizzo https://www.instagram.com/wearefuriosi/ è stato cancellato e non è stato possibile reperirne copie .
+
+L'account youtube da 38.000 iscritti era raggiungibile all'indirizzo https://www.youtube.com/channel/UCRWuH55NuUFh2MPZ8v2Aqrg è stato cancellato o reso privato.
+E' stato possibile reperire una preview di [tutti i titoli dei video](https://github.com/fpietrosanti/ifuriosi/blob/main/youtube-homepage.pdf) da cui è possibile evincere quali siano stati i contenuti.
 
 ## Il Dominio Internet
 
