@@ -67,9 +67,9 @@ L'homepage del sito raccoglie vari articoli sul tema del fumare sigarette, in pa
 - criticando il consumo di sigarette tradizionali ed elettroniche, ma enfatizzando quelle con tabacco riscaldato
 
 Le videate sono disponibili nei seguenti screenshot:
-- [Homepage prima videata](https://raw.githubusercontent.com/fpietrosanti/ifuriosi/sito-homepage-1.png)
-- [Homepage seconda videata](https://raw.githubusercontent.com/fpietrosanti/ifuriosi/sito-homepage-2.png)
-- [Homepage terza videata](https://raw.githubusercontent.com/fpietrosanti/ifuriosi/sito-homepage-3.png)
+- [Homepage prima videata](https://raw.githubusercontent.com/fpietrosanti/ifuriosi/blob/main/sito-homepage-1.png)
+- [Homepage seconda videata](https://raw.githubusercontent.com/fpietrosanti/ifuriosi/blob/main/sito-homepage-2.png)
+- [Homepage terza videata](https://raw.githubusercontent.com/fpietrosanti/ifuriosi/blob/main/sito-homepage-3.png)
 
 
 ### Video di esperimento
@@ -80,3 +80,7 @@ Viene mostrato nel sito [l'anteprima di un video](https://raw.githubusercontent.
 ### Gruppi Facebook
 
 Il sito rimanda in quasi tutte le pagine alla partecipazione al gruppo Facebook [Smettere Domani](https://raw.githubusercontent.com/fpietrosanti/ifuriosi/facebook-smettere-domani.png).
+
+### Google Analytics
+
+Il sito usa Google Analytics impiegando l'account UA-122678760-1 di cui non è possibile conoscerne l'intestatario, se non richiedendolo a Google.
