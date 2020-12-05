@@ -5,6 +5,8 @@ Obiettivo di questo archivio è quello di preservare tutte le evidenze digitali 
 
 Assieme alle evidenze documentali pregresse alla cancellazione, acquisite tramite sistemi di copie storiche web (che apparentemente il gestore del "ifuriosi.it" si sta altrettanto apprestando a fare richieste di cancellazione), sono raccolte altresì le informazioni relative a domini e spazi di indirizzamento IP e autori.
 
+La sintesi di questa raccolta dati è riportata in questo [articolo del Riformista](https://www.ilriformista.it/cinquestellopoli-ecco-cosa-faceva-casaleggio-con-i-soldi-di-philip-morris-180814/)
+
 ## Gli indirizzi IP
 
 L'indirizzo IP del sito www.ifuriosi.it risulta essere 151.5.112.10 presso WIND SPA.
