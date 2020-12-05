@@ -15,6 +15,9 @@ casaleggio.it - casaleggioassociati.com - marcotravaglio.com - rousseau.moviment
 
 Sono consultabili in archivio le copie dell'elenco di coppie IP - Siti acquisiti da [IP Info](https://raw.githubusercontent.com/fpietrosanti/ifuriosi/main/netblocks-2.png) e [Robtex](https://raw.githubusercontent.com/fpietrosanti/ifuriosi/main/netblocks-1.png)
 
+Viene fornito uno [storico tecnico degli indirizzi IP e hostname ifuriosi.it](https://raw.githubusercontent.com/fpietrosanti/ifuriosi/main/dns-storico-hostname-ifuriosi.it.csv) acquisito dallo strumento investigativo IRIS.
+
+
 ## I Social Media
 
 Dell'account youtube da 38.000 iscritti, è stato possibile reperire una preview di [tutti i titoli dei video YT](https://github.com/fpietrosanti/ifuriosi/blob/main/youtube-homepage.pdf) da cui è possibile evincere quali siano stati i contenuti che risultavano raggiungibili all'indirizzo https://www.youtube.com/channel/UCRWuH55NuUFh2MPZ8v2Aqrg
@@ -100,6 +103,7 @@ Sono state estratte ed archiviate le 15 pagine web più significative del sito i
 
 [Vietate le sigarette elettroniche a San Francisco](https://github.com/fpietrosanti/ifuriosi/blob/main/pagina-Vietate%20le%20sigarette%20elettroniche%20a%20San%20Francisco%20%E2%80%94%20I%20Furiosi%20-%20cc.bingj.com.pdf)
 
+[Call to Action: Stiamo cercando te!](https://github.com/fpietrosanti/ifuriosi/blob/main/pagina-FURIOSO%2C%20STIAMO%20CERCANDO%20TE!%20%E2%80%94%20I%20Furiosi.pdf)
 
 ### Video di esperimento fra diversi tipi sigarette a piè di pagina
 
