@@ -3,7 +3,7 @@ Archivio documentale piattaforma ifuriosi.
 
 Obiettivo di questo archivio è quello di preservare tutte le evidenze digitali acquisibili dal 3 Dicembre 2020 a seguito della "*furiosa cancellazione*" del sito [www.ifuriosi.it](http://www.ifuriosi.it) e dei rispettivi canali di comunicazione social Facebook, Instagram, Youtube e Twitter.
 
-Assieme alle evidenze documentali pregresse alla cancellazione, acquisite tramite sistemi di copie storiche web (che apparententemente il gestore del "ifuriosi.it" si sta altrettanto apprestando a fare richieste di cancellazione), sono raccolte altresì le informazioni relative a domini e spazi di indirizzamento IP e autori.
+Assieme alle evidenze documentali pregresse alla cancellazione, acquisite tramite sistemi di copie storiche web (che apparentemente il gestore del "ifuriosi.it" si sta altrettanto apprestando a fare richieste di cancellazione), sono raccolte altresì le informazioni relative a domini e spazi di indirizzamento IP e autori.
 
 ## Gli indirizzi IP
 
@@ -11,7 +11,7 @@ L'indirizzo IP del sito www.ifuriosi.it risulta essere 151.5.112.10 presso WIND 
 
 Nello stesso blocco di indirizzi IP come riportato su [Robtex](https://www.robtex.com/cidr/151.5.0.0-16) e su [IP Info](https://ipinfo.io/AS1267/151.5.0.0/16-151.5.42.0/23) risultano presenti i seguenti siti riconducibili a Casalaleggio Associati Srl, Associazione Rousseau, Movimento 5 Stelle, Marco Travaglio:
 
-casaleggio.it - casaleggioassociati.com - marcotravaglio.com - rousseau.movimento5stelle.it - www.movimento5stelle.it - blogdellestelle.it - rousseau.world - coldirettichin.it - 5stelleeruopa.it - gianrobertocasaleggio.com 
+casaleggio.it - casaleggioassociati.com - marcotravaglio.com - rousseau.movimento5stelle.it - www.movimento5stelle.it - blogdellestelle.it - rousseau.world - coldirettichin.it - 5stelleeuropa.it - gianrobertocasaleggio.com 
 
 Sono consultabili in archivio le copie dell'elenco di coppie IP - Siti acquisiti da [IP Info](https://raw.githubusercontent.com/fpietrosanti/ifuriosi/main/netblocks-2.png) e [Robtex](https://raw.githubusercontent.com/fpietrosanti/ifuriosi/main/netblocks-1.png)
 
